@@ -73,6 +73,7 @@ else:
   elif "CENTER" in optdict['--align']:
     print('\n'.join(map(lambda i:f"{c*(2*i-1):^{2*h+4}}",range(1,h+1))))
     print()
+    print()
 
 print("<-- -----------------------------Exit-------------------------------- -->")
 

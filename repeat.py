@@ -19,5 +19,6 @@ if len(l)==1 or len(l)==0:
     print()
 else:
     print("\n\tToo Many Arguments...")
+    print("\nExit Program...")
     exit(1)
 
